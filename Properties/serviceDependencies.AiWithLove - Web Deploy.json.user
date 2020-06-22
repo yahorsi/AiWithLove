@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2020-06-22T18:41:46.34126Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "MA-QA-Environment"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "3528c48b-d4d8-4051-b03c-c919e7d70ae7"
+    }
+  }
+}
